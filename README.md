@@ -2,7 +2,7 @@
 
 :octocat: Welcome to my Github profile. My name is Rayana Prata and I'm 20 years old.
 
-<p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm Computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
+<p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
 
 - 💻 Intern at T-Systems
 - 🚀 Bootcamp student everis FullStack Developer
