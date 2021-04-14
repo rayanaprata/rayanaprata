@@ -5,9 +5,9 @@
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
 
 - 💻 Technical Support Systems at T-Systems
-- 🚀 Bootcamp student FullStack Developer
+- 🚀 Currently studying HTML, CSS, Javascript and React
 - 👩🏻‍🎓 Systems Analysis and Development graduation student at IFSC
-- 📚 Studying to work as a Front-end Developer or UX/UI Designer
+- 📚 Studying to work as a Front-end Developer
 - 🙋🏻 Interested in helping women get into technology and development
 - 💬 You can call me to talk about technology studies, front-end development and early career
 
