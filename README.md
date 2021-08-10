@@ -7,7 +7,7 @@
 - 💻 Technical Support Systems at T-Systems
 - 🚀 Currently studying HTML, CSS, Javascript and ReactJS
 - 👩🏻‍🎓 Systems Analysis and Development graduation student at IFSC
-- 📚 Studying to work as a Front-end Developer
+- 📚 Studying to work as a Front-end Developer or Product Manager
 - 🙋🏻 Interested in helping women get into technology and development
 - 💬 You can call me to talk about technology studies, front-end development and early career
 
