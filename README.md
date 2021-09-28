@@ -4,11 +4,11 @@
 
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
 
-- 💻 Technical Support Systems at T-Systems
+- 💻 iOS Junior Developer
 - 📱 Exploring (and loving) Mobile Development with Swift for iOS 
-- 🚀 Currently studying HTML, CSS, Javascript and ReactJS
+- 🚀 HTML, CSS, Javascript and ReactJS student
 - 👩🏻‍🎓 Systems Analysis and Development graduation student at IFSC
-- 📚 Studying to work as a Front-end Developer
+- 📚 Studying to be the best developer I can be
 - 🙋🏻 Interested in helping women get into technology and development
 - 💬 You can call me to talk about technology studies, early career, front-end and mobile development
 
