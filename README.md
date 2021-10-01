@@ -10,7 +10,7 @@
 - 👩🏻‍🎓 Systems Analysis and Development graduation student at IFSC
 - 📚 Studying to be the best developer I can be
 - 🙋🏻 Interested in helping women get into technology and development
-- 💬 You can call me to talk about technology studies, early career, front-end and mobile development
+- 💬 You can call me to talk about technology studies, early career, mobile development and front-end
 
 <a href="https://github.com/rayanaprata">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=rayanaprata&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
