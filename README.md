@@ -4,7 +4,7 @@
 
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
 
-- 💻 iOS Junior Developer
+- 💻 iOS Junior Developer at Serasa
 - 📱 Exploring (and loving) Mobile Development with Swift for iOS 
 - 🚀 HTML, CSS, Javascript and ReactJS student
 - 👩🏻‍🎓 Systems Analysis and Development graduation student at IFSC
