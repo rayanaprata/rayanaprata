@@ -5,9 +5,10 @@
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
 
 - 💻 Junior iOS Developer at Serasa
-- 📱 Exploring (and loving) Mobile Development with Swift for iOS 
-- 🚀 HTML, CSS, Javascript and ReactJS student
-- 👩🏻‍🎓 Systems Analysis and Development graduation student at IFSC
+- 📱 Mobile Development with Swift for iOS student
+- 🚀 HTML, CSS, Javascript and ReactJS lover
+- 🎓 Graduating in Systems Analysis and Development at IFSC
+- 👩🏻‍🎓 Student of the postgraduate specialization course in Mobile Development at Unyley
 - 📚 Studying to be the best mobile developer I can be
 - 🙋🏻 Interested in helping women get into technology and development
 - 💬 You can call me to talk about technology studies, early career, mobile development and front-end
