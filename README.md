@@ -5,6 +5,7 @@
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
 
 - 💻 Junior iOS Developer at Serasa
+- 📊 Data Analyst at @tedxblumenau
 - 📱 Mobile Development with Swift for iOS student
 - 🚀 HTML, CSS, Javascript and ReactJS lover
 - 🎓 Graduating in Systems Analysis and Development at IFSC
