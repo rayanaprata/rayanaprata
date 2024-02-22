@@ -4,7 +4,7 @@
 
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation, astronomy and tech lover.  🐱‍💻❤ </p> 
 
-- 💻 iOS Developer at Mercado Livre
+- 💻 iOS Software Engineer at Mercado Livre
 - 📊 Data Analyst at TEDx Blumenau
 - 📱 Mobile Development with Swift for iOS student
 - 🚀 HTML, CSS, Javascript and ReactJS lover
